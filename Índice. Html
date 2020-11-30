@@ -15,12 +15,7 @@
 		<!--ubicacion de los estilos -->
 		<link rel="stylesheet" href="mihojadeestilo.css"/>
 
-		<!--mi estilo de la lista 1 white-->
-		<style>
-			p[name="lista 1"]{
-				color:#FFFFFF; 
-			}
-		</style>
+		
 
 	</head>
 	<body>
